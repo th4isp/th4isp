@@ -1,5 +1,5 @@
 ### Oi, ✌️ Meu nome é Thaís estou atualmente em processo
-### de transição para a área de tecnologia como Full Stack em Formação.✋ 
+### de transição para a área de tecnologia como Full Stack em Formação. 😎 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tha%C3%ADs-a-prates/) 
 
