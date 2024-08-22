@@ -17,8 +17,6 @@
 
 </div></br>
 
-## 📚 Formação:  <img align="center" alt="html5" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
-
 
 #### apaixonada por código, novas tecnologias e grandes desafios. 
 #
